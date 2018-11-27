@@ -19,11 +19,13 @@ function changeLeastFavoriteCustomer(){
 }
 
 
-function attemptTwoFavoriteCustomers(x){
+function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
-    if (x=1){
-      favoriteCustomer = favoriteCustomer
-    }
-    return favoriteCustomer
 }
+
+
+function congratulateCustomer(){
+  return `congrats ${favoriteCustomer}`
+}
+
