@@ -25,7 +25,4 @@ function attemptTwoFavoriteCustomers(){
 }
 
 
-function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}`
-}
 
